@@ -88,5 +88,4 @@ int main() {
 	cout << endl;
 	cout << "c:";
 	outputc();
-	return 0;
 }

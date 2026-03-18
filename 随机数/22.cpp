@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+int d;
 int n, f[101][101], h[101][101], a[101][101], b[101][101], an[101]={0}, bn[101] = {0}, sum = 0;
 int main() {
 	cin >> n;

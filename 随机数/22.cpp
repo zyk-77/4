@@ -36,5 +36,6 @@ int main() {
 		}
 	}
 	for (int i = 1; i <= n; ++i) cout << an[i] << ' ';
+	int p;
 	return 0;
 }
